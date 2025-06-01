@@ -1,0 +1,2 @@
+Suggested route for minimal carbon emission:
+{'route_distance': 130, 'fuel_usage': 28, 'weather': 'Clear', 'traffic': 'High', 'cargo_weight': 10, 'predicted_emission': 60.281784}

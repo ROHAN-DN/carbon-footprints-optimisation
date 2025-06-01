@@ -1,0 +1,3 @@
+MAE: 4.816 kg CO2
+RMSE: 6.070 kg CO2
+Mean % Error: 11.85 %
